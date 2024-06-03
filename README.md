@@ -26,7 +26,7 @@ iFRIEND Contact Organizer is a console-based contact management application that
 - **Sort by Salary**: List contacts in ascending order by salary.
 - **Sort by Birthday**: List contacts in chronological order by birthday.
 
-## Usage
+
 
 ### Main Menu
 
